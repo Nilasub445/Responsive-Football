@@ -6,7 +6,8 @@
  /* common style or utilities */
  body{
       font-family: 'Poppins', sans-serif;  
-      background-color: #E5E5E5;
+     
+    background-color: #E5E5E5;
  }
  .copa-america-banner{
 display: flex;
@@ -362,6 +363,10 @@ padding-right: 10px;}
                   margin-top: 153px;
                   margin-left: 69px;
             }
+            hr{
+                  border: 1px solid #D1D1D1; 
+                  margin-bottom: 30px;
+                  margin-top: 20px;}
             .video-heading{
             text-align: center;
 
@@ -440,7 +445,6 @@ padding-right: 10px;}
             Mobile devices 
             ----------------*/
             
-                        
-                  
+
 
            
