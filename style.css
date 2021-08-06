@@ -362,3 +362,85 @@ padding-right: 10px;}
                   margin-top: 153px;
                   margin-left: 69px;
             }
+            .video-heading{
+            text-align: center;
+
+            }
+         
+            
+            .adding-video{
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+            }
+            /* -----------
+            
+                    foot-ball-logo
+                  ------------------*/
+            .foot-ball-logo{
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  margin-top: 100px;
+            }
+            .logo img{
+             width: 483px;
+             height: 110px;
+             margin-left: 50px;
+            }
+
+            /* icon style */
+            .icon-section{
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  margin-top: 60px;
+
+            }
+            .fa-instagram-square.filled{
+                  color: grey;
+                 width: 32px;
+                 height: 32px;
+                 font-size: 25px;
+                 margin-right: 14px;
+                 
+            }
+            .fa-basketball-ball.filled{
+                  color: grey;
+                  width: 32px;
+                  height: 32px;
+                  font-size: 25px;
+                  margin-right: 14px;     
+            }
+            .fa-twitter.filled{
+                  color: grey;
+                  width: 32px;
+                  height: 32px;
+                  font-size: 25px;
+                  margin-right: 14px;     
+            }
+            .fa-youtube.filled{
+                  color: grey;
+                  width: 32px;
+                  height: 32px;
+                  font-size: 25px;
+                  margin-right: 14px;     
+            }
+            /* footer style */
+            .copyright{
+                 display: flex; 
+                 justify-content: center;
+                 align-items: center;
+            }
+
+            /* -----------
+            media quaries
+            --------- */
+            /* -----------
+            Mobile devices 
+            ----------------*/
+            
+                        
+                  
+
+           
